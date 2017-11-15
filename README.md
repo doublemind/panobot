@@ -1,4 +1,2 @@
 # panobot
-Just my first repository for testing
-
-I'm a mechanical design engineer .
+I'm a mechanical design engineer and try to get a feeling for how git  works. 
